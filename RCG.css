@@ -1,0 +1,16 @@
+#first {
+    height: 100vh;
+    width: 100vw;
+}
+
+#color {
+    text-align: center;
+    margin-top: 400px;
+}
+
+#btn {
+    padding: 10px 20px;
+    border-radius: 100px;
+    font-size: 20px;
+    background-color: transparent;
+}
